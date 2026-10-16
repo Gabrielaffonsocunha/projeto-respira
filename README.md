@@ -1,29 +1,30 @@
-Este é o meu primeiro projeto web, desenvolvido com o objetivo de praticar e consolidar os conhecimentos adquiridos em HTML e CSS. O tema escolhido aborda a ansiedade e a síndrome do pânico, visando informar e conscientizar os visitantes sobre esses transtornos.
+# Projeto Respira
 
-🧠 Sobre o Projeto
-Tema: Ansiedade e Síndrome do Pânico
+Site informativo sobre ansiedade e síndrome do pânico, criado como projeto de estudo para praticar estruturação de páginas e estilos com HTML e CSS.
 
-- Tecnologias Utilizadas: HTML e CSS
-- Objetivo: Criar um site informativo de forma simples e eficaz
+## Objetivos de aprendizagem
 
+- Construir uma página com HTML semântico.
+- Criar layout e estilos com CSS.
+- Organizar imagens e fontes locais.
 
-📂 Estrutura de Arquivos
-/
-├── index.html
-├── style.css
-├── MIXONE.ttf
-├── love larry ttf.ttf
-└── README.md
+## Tecnologias
 
+- HTML5
+- CSS3
 
-🚀 Como Visualizar o Projeto
-Clone o repositório:
-git clone https://github.com/Gabrielaffonsocunha/Repository-first.git
+## Como visualizar
 
-Navegue até o diretório do projeto:
-cd Repository-first
-Abra o arquivo index.html em seu navegador preferido.
+1. Clone ou baixe o repositório.
+2. Abra `index.html` em um navegador moderno.
 
+O projeto é estático e não exige instalação de dependências. Formulários ou chamadas de contato demonstrados na interface não possuem backend.
 
-📌 Considerações Finais
-Este projeto representa o início da minha jornada no desenvolvimento web. Estou entusiasmada para continuar aprendendo e aprimorando minhas habilidades. Qualquer feedback ou sugestão será muito bem-vindo!
+## Estrutura principal
+
+- `index.html`: conteúdo da página
+- `style.css`: layout e estilos
+- `img/` e `icon/`: recursos visuais
+- Arquivos `.ttf`: fontes locais
+
+Este é um projeto educacional. O conteúdo é informativo e não substitui orientação de profissionais de saúde.
